@@ -4,6 +4,12 @@ body{
     height: 55rem;
 }span{
     font-size: 1.2rem;
+}.slide{
+    width: 95%;
+    padding-left: 5%;
+    height: auto;
+}.carousel-img{
+    border-radius: 10px;
 }
 @media (max-width:770px){
     .card{
@@ -23,4 +29,5 @@ body{
         padding-top: 2rem;
         border-radius: 10px;
     }
+
 }
